@@ -5,9 +5,18 @@
 <?Php
 
 echo "<style >
+table {
+  width: 100%;
+}
 
-table, th, td {
+th {
+  height: 50px;
+ border: 1px solid black;
+} 
+
+ td {
   border: 1px solid black;
+
 }
 
 table.center {
@@ -47,19 +56,20 @@ $date=$date->format('Y-m-d');
 
 //echo $date;
 
-$sql="select * from Bookings where b_date ='$date'";
+$sql="select * from Bookings where b_date ='$date'AND b_type='student'";
 
 echo "<table width=2000>";
 
 echo "<tr>";
-
+           
+           echo"<td>Booking ID</td>";
            echo"<td>Name</td>";
 
             echo"<td>Email</td>";
 
             echo"<td>Start Time</td>";
 			
-			echo"<td>End Time</td>";
+			
 
             echo"<td>Purpose</td>"; 
 			
@@ -75,13 +85,14 @@ foreach ($dbo->query($sql) as $row) {
 
 echo"<tr>";
 
-           echo "<td>$row[b_name]</td>
+           echo "<td>$row[b_id]</td>
+<td>$row[b_name]</td>
 
             <td><a href=mailto:$row[b_email]>$row[b_email]</td>
 
             <td>$row[b_starttime]</td>
 			
-			<td>$row[b_endtime]</td>
+			
 
             <td>$row[b_purpose]</td>
 			

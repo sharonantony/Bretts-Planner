@@ -1,0 +1,72 @@
+[08-May-2019 01:40:06 CST6CDT] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/ictatjcu/public_html/portal/index.php on line 72
+[08-May-2019 02:01:32 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/index.php on line 69
+[09-May-2019 03:39:22 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/index.php on line 69
+[09-May-2019 03:39:41 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/index.php on line 69
+[09-May-2019 03:45:06 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/index.php on line 69
+[09-May-2019 03:45:24 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/index.php on line 69
+[09-May-2019 03:46:24 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/index.php on line 69
+[09-May-2019 03:48:02 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/index.php on line 69
+[09-May-2019 03:48:11 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/index.php on line 69
+[09-May-2019 03:48:24 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/index.php on line 69
+[09-May-2019 03:48:35 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/index.php on line 69
+[09-May-2019 03:53:50 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/index.php on line 69
+[09-May-2019 03:53:52 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/index.php on line 69
+[09-May-2019 09:15:36 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/index.php on line 69
+[09-May-2019 23:27:26 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/index.php on line 69
+[09-May-2019 23:29:09 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/index.php on line 69
+[09-May-2019 23:30:43 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/index.php on line 69
+[09-May-2019 23:37:37 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/index.php on line 69
+[09-May-2019 23:38:22 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/index.php on line 69
+[09-May-2019 23:38:32 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/index.php on line 69
+[09-May-2019 23:39:27 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/index.php on line 69
+[09-May-2019 23:40:18 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/index.php on line 69
+[12-May-2019 23:25:52 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/index.php on line 69
+[15-May-2019 02:59:52 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/index.php on line 69
+[16-May-2019 18:55:36 CST6CDT] PHP Parse error:  syntax error, unexpected '.' in /home/ictatjcu/public_html/portal/calendar.php on line 3
+[16-May-2019 19:03:43 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function db_connect() in /home/ictatjcu/public_html/portal/calender_process.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/portal/calender_process.php on line 15
+[16-May-2019 19:20:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function db_connect() in /home/ictatjcu/public_html/portal/calender_process.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/portal/calender_process.php on line 15
+[16-May-2019 19:26:32 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/ictatjcu/public_html/portal/calender_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/portal/calender_process.php on line 30
+[16-May-2019 19:28:27 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/ictatjcu/public_html/portal/calender_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/portal/calender_process.php on line 30
+[16-May-2019 22:37:27 CST6CDT] PHP Fatal error:  require(): Failed opening required 'configphp' (include_path='.:/usr/local/php71/pear') in /home/ictatjcu/public_html/portal/note.php on line 3
+[03-Jun-2019 09:14:27 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/note.php on line 1161
+[03-Jun-2019 09:16:02 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ictatjcu/public_html/portal/note.php on line 1186
+[03-Jun-2019 09:27:08 CST6CDT] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/ictatjcu/public_html/portal/view_app.php on line 14
+[04-Jun-2019 22:05:02 CST6CDT] PHP Parse error:  syntax error, unexpected 'margin' (T_STRING), expecting ',' or ';' in /home/ictatjcu/public_html/portal/selectp.php on line 96
+[04-Jun-2019 22:09:57 CST6CDT] PHP Parse error:  syntax error, unexpected 'test' (T_STRING), expecting ',' or ';' in /home/ictatjcu/public_html/portal/selectp.php on line 96
+[04-Jun-2019 22:10:49 CST6CDT] PHP Parse error:  syntax error, unexpected 'test' (T_STRING), expecting ',' or ';' in /home/ictatjcu/public_html/portal/selectp.php on line 96
+[04-Jun-2019 22:16:18 CST6CDT] PHP Parse error:  syntax error, unexpected '>' in /home/ictatjcu/public_html/portal/selectp.php on line 96
+[04-Jun-2019 22:16:46 CST6CDT] PHP Parse error:  syntax error, unexpected '>' in /home/ictatjcu/public_html/portal/selectp.php on line 96
+[04-Jun-2019 22:21:27 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/ictatjcu/public_html/portal/selectp.php on line 96
+[05-Jun-2019 06:36:42 CST6CDT] PHP Parse error:  syntax error, unexpected '.' in /home/ictatjcu/public_html/portal/calendar.php on line 3
+[06-Jun-2019 18:57:06 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/Update/new/delprocess.php on line 40
+[06-Jun-2019 18:57:40 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ictatjcu/public_html/portal/Update/new/delprocess.php on line 40
+[06-Jun-2019 19:43:23 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/ictatjcu/public_html/portal/Update/new/calender_process.php on line 74
+[06-Jun-2019 19:48:57 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/ictatjcu/public_html/portal/Update/new/calender_process.php on line 74
+[06-Jun-2019 19:49:39 CST6CDT] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string ($ftime) at position 0 ($): Unexpected character in /home/ictatjcu/public_html/portal/Update/new/calender_process.php:62
+Stack trace:
+#0 /home/ictatjcu/public_html/portal/Update/new/calender_process.php(62): DateTime->__construct('$ftime')
+#1 {main}
+  thrown in /home/ictatjcu/public_html/portal/Update/new/calender_process.php on line 62
+[06-Jun-2019 19:53:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function modify() on string in /home/ictatjcu/public_html/portal/Update/new/calender_process.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/ictatjcu/public_html/portal/Update/new/calender_process.php on line 63
+[06-Jun-2019 20:23:01 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/ictatjcu/public_html/portal/Update/new/calender_process.php on line 72
+[06-Jun-2019 20:30:55 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/ictatjcu/public_html/portal/Update/new/calender_process.php on line 67
+[06-Jun-2019 20:31:32 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/ictatjcu/public_html/portal/Update/new/calender_process.php on line 67
+[06-Jun-2019 20:32:51 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/ictatjcu/public_html/portal/Update/new/calender_process.php on line 66
+[06-Jun-2019 20:33:06 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/ictatjcu/public_html/portal/Update/new/calender_process.php on line 98
+[06-Jun-2019 20:33:11 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/ictatjcu/public_html/portal/Update/new/calender_process.php on line 98
+[06-Jun-2019 21:22:14 CST6CDT] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/ictatjcu/public_html/portal/Update/new/calender_process.php on line 203
